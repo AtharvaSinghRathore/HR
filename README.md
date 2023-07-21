@@ -1,5 +1,2 @@
 # HR
-Develop a command prompt application using Java and MySQL for managing employee records and payroll data.
-The application was designed to assist HR personnel in tracking employee information, managing payroll, and generating
-reports. The application included features such as: Adding new employees and their personal information, tracking
-employee attendance and leave records, calculating employee salaries and generating pay stubs.
+HR Management, 2021, is a comprehensive desktop application designed to efficiently manage employee records within an organization. Developed using Java, it incorporates a robust SQL-based backend for data storage and retrieval. The user interface is built using AWT and SWING packages, providing a user-friendly and intuitive experience. The project is structured and managed using the GRADLE build system, ensuring seamless integration and easy maintenance.
